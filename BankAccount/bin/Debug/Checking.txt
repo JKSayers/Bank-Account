@@ -1,5 +1,0 @@
-Customer: JKKJKJ
-Account Type: Checking
-Account #: 11119384
-Balance: $4477.80
- 

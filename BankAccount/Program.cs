@@ -12,19 +12,21 @@ namespace BankAccount
         static void Main(string[] args)
         {
 
+            Console.Title = "Schwifty Banking App";
             //Create text file for each account
             StreamWriter swReserve = new StreamWriter("Reserve.txt");
             StreamWriter swSavings = new StreamWriter("Savings.txt");
             StreamWriter swChecking = new StreamWriter("Checking.txt");
 
 
-            //Prompt user for name
+            //Prompt user for name for stretch task - multiple users
             Console.WriteLine("Welcome to Schwifty Savings and Loan Online Banking");
             Console.WriteLine("__________________________________________");
             Console.WriteLine("Please enter your name to login \n\n");
             Console.Write("Customer name: "); string customerName = Console.ReadLine();
             Console.Clear();
 
+            
 
             //Instantiates each account
             Reserve_Account Res = new Reserve_Account(customerName);

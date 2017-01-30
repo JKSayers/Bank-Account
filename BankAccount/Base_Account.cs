@@ -9,7 +9,9 @@ namespace BankAccount
     class Base_Account
     {
         //Fields
-        private string bankMemberName;
+        //private string bankMemberName = "Rick Sanchez";    //Hardcoded Client name for normal task.
+
+        private string bankMemberName;                       //set the client name be able to accept multiple users as per Stretch task.
         private decimal balance;
         private string address = "22990 Schlami Ave Kromulon, Nebraska 32012";
         private string email = "Squanchtastic223@Meemail.com";
@@ -28,7 +30,8 @@ namespace BankAccount
             set { this.accountNumber = value; }
         }
 
-        //Constructors
+
+        //constructor for stretch task - multiple users
         public Base_Account(string bankMemberName)
         {
             this.BankMemberName = bankMemberName;
