@@ -1,0 +1,14 @@
+Customer: James Sayers
+Account Type: Reserve
+Account #: 11117384
+Balance: $500.50
+ 
++ $434 1/30/2017 4:01:42 AM
+Account Balance: $934.50
+ 
+- $5452.22 1/30/2017 4:02:38 AM
+Account Balance: $-4517.72
+ 
++ $843.44 1/30/2017 4:03:14 AM
+Account Balance: $-3674.28
+ 

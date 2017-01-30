@@ -1,0 +1,14 @@
+Customer: James Sayers
+Account Type: Checking
+Account #: 11119384
+Balance: $4477.80
+ 
++ $2323.33 1/30/2017 4:01:18 AM
+Account Balance: $6801.13
+ 
+- $455.44 1/30/2017 4:02:01 AM
+Account Balance: $6345.69
+ 
++ $41 1/30/2017 4:02:53 AM
+Account Balance: $6386.69
+ 

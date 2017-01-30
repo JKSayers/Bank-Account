@@ -1,0 +1,14 @@
+Customer: James Sayers
+Account Type: Savings
+Account #: 11116349
+Balance: $1143.75
+ 
++ $334 1/30/2017 4:01:33 AM
+Account Balance: $1477.75
+ 
+- $567.66 1/30/2017 4:02:23 AM
+Account Balance: $910.09
+ 
++ $222 1/30/2017 4:03:04 AM
+Account Balance: $1132.09
+ 
